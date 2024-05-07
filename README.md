@@ -1,9 +1,9 @@
 # soloSphere
 
-- [Live Link(Firebase)](https://solo-sphere-9370e.web.app)
+- [Live Link(Firebase)](https://solosphere.web.app/)
 
-- [Github Repo - (Today's Session)](https://github.com/shakilahmedatik/soloSphere-session)
-- [Github Repo - (Complete)](https://github.com/shakilahmedatik/soloSphere-complete)
+- [Github Repo - (1st Part)](https://github.com/shakilahmedatik/soloSphere-session)
+- [Github Repo - (Complete - 2nd Part)](https://github.com/shakilahmedatik/soloSphere-complete)
 
   Resources:
 
