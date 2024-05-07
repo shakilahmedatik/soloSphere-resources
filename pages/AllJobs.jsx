@@ -79,7 +79,6 @@ const AllJobs = () => {
         {pages.map(btnNum => (
           <button
             key={btnNum}
-            onClick={() => handlePaginationButton(btnNum)}
             className={`hidden px-4 py-2 mx-1 transition-colors duration-300 transform  rounded-md sm:inline hover:bg-blue-500  hover:text-white`}
           >
             {btnNum}
